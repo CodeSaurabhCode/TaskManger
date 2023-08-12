@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "81outsJ10Tqv5qW5s7Ho/+M8ttgPz66jbKDIALwzS1wSYgm0a/MOos26CJHHQ9OmDfYxxXgfkCMGQFZwRZUFXw==",
+  "success": true,
+  "projectFilePath": "D:\\Training\\C#\\TaskManager\\NUnitTests\\NUnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\colors.net\\1.1.0\\colors.net.1.1.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\KSHIRSAGARSAURABH\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
